@@ -1,0 +1,41 @@
+.container {
+    text-align: center;
+  }
+  
+  #nounBtn {
+    background-color: #4CAF50;
+  }
+  
+  #verbBtn {
+    background-color: #8a3cd3;
+  }
+  
+  #adjectiveBtn {
+    background-color: #f44336;
+  }
+  
+  #adverbBtn {
+    background-color: #ffd900;
+  }
+  
+  #prepositionBtn {
+    background-color: #800080;
+  }
+
+  #generateStoryBtn {
+    background-color: #1e90ff;
+  }
+  
+  button {
+    margin: 5px;
+    padding: 10px 20px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    opacity: 0.8;
+  }
+  
